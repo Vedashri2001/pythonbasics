@@ -20,3 +20,8 @@ while i<=rows:
 while i>=1:
     print(" " * (rows-i) + "*" * (2*i-1))
     i-=1
+    
+num=1
+while num<=5:
+    print(num)
+    num+=1
