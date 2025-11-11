@@ -9,4 +9,5 @@ while roll1!=1 or roll2!=1:
     roll_count+=1
 print(roll1,roll2)
 print(f"snake eyes! it took {roll_count}")
+
     
